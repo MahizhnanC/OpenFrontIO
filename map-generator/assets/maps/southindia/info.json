@@ -1,0 +1,294 @@
+{
+  "id": "SouthIndia",
+  "name": "South India",
+  "translation_key": "map.southindia",
+  "categories": ["asia"],
+  "multiplayer_frequency": 4,
+  "nations": [
+    {
+      "coordinates": [1369, 1171],
+      "name": "Chennai",
+      "flag": "in"
+    },
+    {
+      "coordinates": [909, 1191],
+      "name": "Bengaluru",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1064, 399],
+      "name": "Hyderabad",
+      "flag": "in"
+    },
+    {
+      "coordinates": [688, 1716],
+      "name": "Kochi",
+      "flag": "in"
+    },
+    {
+      "coordinates": [802, 1985],
+      "name": "Thiruvananthapuram",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1001, 1736],
+      "name": "Madurai",
+      "flag": "in"
+    },
+    {
+      "coordinates": [798, 1541],
+      "name": "Coimbatore",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1101, 1582],
+      "name": "Tiruchirappalli",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1180, 1588],
+      "name": "Thanjavur",
+      "flag": "in"
+    },
+    {
+      "coordinates": [938, 1955],
+      "name": "Tirunelveli",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1294, 1375],
+      "name": "Puducherry",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1007, 1426],
+      "name": "Salem",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1178, 1204],
+      "name": "Vellore",
+      "flag": "in"
+    },
+    {
+      "coordinates": [893, 2045],
+      "name": "Kanyakumari",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1126, 1837],
+      "name": "Ramanathapuram",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1893, 343],
+      "name": "Visakhapatnam",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1447, 554],
+      "name": "Vijayawada",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1229, 1072],
+      "name": "Tirupati",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1330, 928],
+      "name": "Nellore",
+      "flag": "in"
+    },
+    {
+      "coordinates": [985, 680],
+      "name": "Kurnool",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1259, 293],
+      "name": "Warangal",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1647, 467],
+      "name": "Rajahmundry",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1719, 474],
+      "name": "Kakinada",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1408, 591],
+      "name": "Guntur",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1339, 736],
+      "name": "Ongole",
+      "flag": "in"
+    },
+    {
+      "coordinates": [910, 883],
+      "name": "Anantapur",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1124, 921],
+      "name": "Kadapa",
+      "flag": "in"
+    },
+    {
+      "coordinates": [2013, 233],
+      "name": "Srikakulam",
+      "flag": "in"
+    },
+    {
+      "coordinates": [998, 167],
+      "name": "Nizamabad",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1178, 208],
+      "name": "Karimnagar",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1357, 422],
+      "name": "Khammam",
+      "flag": "in"
+    },
+    {
+      "coordinates": [742, 1311],
+      "name": "Mysuru",
+      "flag": "in"
+    },
+    {
+      "coordinates": [431, 1200],
+      "name": "Mangaluru",
+      "flag": "in"
+    },
+    {
+      "coordinates": [476, 761],
+      "name": "Hubballi",
+      "flag": "in"
+    },
+    {
+      "coordinates": [368, 673],
+      "name": "Belagavi",
+      "flag": "in"
+    },
+    {
+      "coordinates": [776, 408],
+      "name": "Kalaburagi",
+      "flag": "in"
+    },
+    {
+      "coordinates": [791, 801],
+      "name": "Ballari",
+      "flag": "in"
+    },
+    {
+      "coordinates": [555, 1018],
+      "name": "Shivamogga",
+      "flag": "in"
+    },
+    {
+      "coordinates": [616, 923],
+      "name": "Davanagere",
+      "flag": "in"
+    },
+    {
+      "coordinates": [868, 611],
+      "name": "Raichur",
+      "flag": "in"
+    },
+    {
+      "coordinates": [580, 497],
+      "name": "Bijapur",
+      "flag": "in"
+    },
+    {
+      "coordinates": [648, 1185],
+      "name": "Hassan",
+      "flag": "in"
+    },
+    {
+      "coordinates": [255, 740],
+      "name": "Goa",
+      "flag": "in"
+    },
+    {
+      "coordinates": [599, 1494],
+      "name": "Kozhikode",
+      "flag": "in"
+    },
+    {
+      "coordinates": [532, 1385],
+      "name": "Kannur",
+      "flag": "in"
+    },
+    {
+      "coordinates": [667, 1629],
+      "name": "Thrissur",
+      "flag": "in"
+    },
+    {
+      "coordinates": [753, 1471],
+      "name": "Ooty",
+      "flag": "in"
+    },
+    {
+      "coordinates": [322, 521],
+      "name": "Kolhapur",
+      "flag": "in"
+    },
+    {
+      "coordinates": [615, 348],
+      "name": "Solapur",
+      "flag": "in"
+    },
+    {
+      "coordinates": [860, 73],
+      "name": "Nanded",
+      "flag": "in"
+    },
+    {
+      "coordinates": [1314, 2272],
+      "name": "Colombo",
+      "flag": "lk"
+    },
+    {
+      "coordinates": [1432, 2206],
+      "name": "Kandy",
+      "flag": "lk"
+    },
+    {
+      "coordinates": [1343, 1773],
+      "name": "Jaffna",
+      "flag": "lk"
+    },
+    {
+      "coordinates": [1533, 1966],
+      "name": "Trincomalee",
+      "flag": "lk"
+    },
+    {
+      "coordinates": [1381, 2408],
+      "name": "Galle",
+      "flag": "lk"
+    },
+    {
+      "coordinates": [1401, 2027],
+      "name": "Anuradhapura",
+      "flag": "lk"
+    },
+    {
+      "coordinates": [1619, 2141],
+      "name": "Batticaloa",
+      "flag": "lk"
+    }
+  ]
+}

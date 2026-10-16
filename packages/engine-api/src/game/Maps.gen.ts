@@ -113,6 +113,7 @@ export enum GameMapType {
   Sol = "Sol", // map-generator/assets/maps/sol/info.json
   SouthAmerica = "South America", // map-generator/assets/maps/southamerica/info.json
   SoutheastAsia = "SoutheastAsia", // map-generator/assets/maps/southeastasia/info.json
+  SouthIndia = "South India", // map-generator/assets/maps/southindia/info.json
   StraitOfGibraltar = "Strait of Gibraltar", // map-generator/assets/maps/straitofgibraltar/info.json
   StraitOfHormuz = "Strait of Hormuz", // map-generator/assets/maps/straitofhormuz/info.json
   StraitOfMalacca = "Strait Of Malacca", // map-generator/assets/maps/straitofmalacca/info.json
@@ -2290,6 +2291,17 @@ export const maps: readonly MapInfo[] = [
     specialFrequency: -1,
     defaultNationCount: 31,
     themes: ["asia"],
+  },
+  {
+    id: "SouthIndia",
+    type: GameMapType.SouthIndia,
+    translationKey: "map.southindia",
+    categories: ["asia"],
+    multiplayerFrequency: 4,
+    ffaFrequency: -1,
+    teamFrequency: -1,
+    specialFrequency: -1,
+    defaultNationCount: 57,
   },
   {
     id: "StraitOfGibraltar",
